@@ -26,7 +26,3 @@ This project analyzes India's **Consumer Price Index (CPI) inflation trends** us
 
 ## **Conclusion**  
 This project offers a **comprehensive analysis of India's inflation trends**, helping policymakers, economists, and analysts make **data-driven decisions** based on past trends and category-wise contributions.  
-
----
-
-Let me know if you need modifications or additional sections! 🚀
